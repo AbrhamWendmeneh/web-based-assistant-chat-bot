@@ -6,10 +6,15 @@ encounter  while  using  digital  platforms  and  services.  By  offering  a  us
 relevant information, the chatbot aims to empower users with the knowledge and tools necessary 
 to enhance their cybersecurity practices.
 
-||
+
 The  project  focuses  on  providing  practical  recommendations  and  best  practices  related  to 
 cybersecurity.  It  covers  various  topics,  including  identifying  phishing  emails,  generating  strong 
 passwords,  removing  malware,  and  recognizing  common  cyber  threats  and  scams.  By  offering 
 comprehensive  assistance  in  these  areas,  the  chatbot  serves  as  a  reliable  resource  for  users  of 
 diverse backgrounds and expertise levels in which almost all of cyber-attacks are related to lack 
 of awareness of users in using various systems. 
+
+
+Inorder to run the project you can simply use the vs code or any other similar things and test it after that 
+you get link in which you can use the ctrl+ click on the generated link to view in browser
+
