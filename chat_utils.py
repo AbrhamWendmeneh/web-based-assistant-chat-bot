@@ -1,7 +1,7 @@
 import openai
 from keyWord import cyber_keywords
 
-openai.api_key = "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"
+openai.api_key = "sk-PY9ZIz################################### you can use your own api key value"
 
 messages = [{"role": "system", "content": "You are a cybersecurity expert that specializes in cyber attack warnings"}]
 
