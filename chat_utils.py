@@ -22,8 +22,8 @@ def CustomChatBot(ask_me):
             model="gpt-3.5-turbo",
             messages=messages
         )
-        ChatGPT_reply = response["choices"][0]["message"]["content"]
-        messages.append({"role": "assistant", "content": ChatGPT_reply})
-        return ChatGPT_reply
+        Chat_reply = response["choices"][0]["message"]["content"]
+        messages.append({"role": "assistant", "content": Chat_reply})
+        return Chat_reply
     else:
         return "Please provide a cybersecurity or cyber attack warning-related query."
